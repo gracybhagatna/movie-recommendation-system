@@ -1,6 +1,6 @@
-# movie-recommendation-system
-Content-based movie recommendation system using Python
 # Movie Recommendation System
+
+Content-based movie recommendation system using Python.
 
 This project implements a content-based movie recommendation system using Python.
 
