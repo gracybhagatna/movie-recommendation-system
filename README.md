@@ -21,3 +21,5 @@ The system recommends movies based on similarity of content features such as gen
 ## Outcome
 The system generates personalized movie recommendations based on content similarity.
 
+## Learning Outcomes
+This project helped me gain hands-on experience in data preprocessing, feature extraction, and similarity-based recommendation techniques using real-world datasets.
