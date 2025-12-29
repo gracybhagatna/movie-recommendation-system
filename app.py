@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 
 def fetch_poster(movie_id):
-    url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=cc39ddabfff3090df5219fd42317df0d"
+    url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key="YOUR_API_KEY""
     response = requests.get(url)
     data = response.json()
 
